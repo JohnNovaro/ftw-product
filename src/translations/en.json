@@ -968,7 +968,7 @@
   "TopbarMobileMenu.signupOrLogin": "{signup} or {login}",
   "TopbarMobileMenu.unauthorizedGreeting": "Привiт,{lineBreak}Вы хотите {signupOrLogin}?",
   "TopbarMobileMenu.yourListingsLink": "Your listings",
-  "TopbarSearchForm.placeholder": "Найти на COMODA.UA",
+  "TopbarSearchForm.placeholder": "Найти на KOMODA.UA",
   "TopbarSearchForm.searchHelp": "Подсказка: Вы также можете искать по бренду, например \"Zara\" или характеристикам – \"Черный\".",
   "TransactionPage.deletedListing": "deleted listing",
   "TransactionPage.dispute.actionButton": "Dispute",
